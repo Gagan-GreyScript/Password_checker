@@ -16,4 +16,8 @@ if __name__ == "__main__":
     pwd = input("Enter a password to check its strength: ")
     result = check_password_strength(pwd)
     print(f"Password Strength Score: {result}/4")
-printf("new_feature created")
+
+print("new_feature created")
+
+    print("Password check initiated.")
+
